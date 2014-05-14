@@ -1,0 +1,1 @@
+web: gunicorn rangers_db_project.wsgi
